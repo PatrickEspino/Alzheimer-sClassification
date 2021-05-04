@@ -6,3 +6,7 @@ Dataset taken from Kaggle: https://www.kaggle.com/tourist55/alzheimers-dataset-4
 For the dataset, instead of doing a four class classification problem, the dataset was altered to "Demented" or "NonDemented" so that the images for each label would be more balanced.
 
 Utilized Google Colab to train the models on a faster GPU.
+
+alzheimers.pynb is the main code file
+
+alzheimers.html is the output file
